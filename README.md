@@ -1,6 +1,8 @@
 # ScratchFSK
 A SoftModem extension for Scratch 3.0
 
+**Doesn't work yet**
+
 ## Ressources:
 
 - [arpruss' tutorial for writting extensions for Scratch 3.0](https://www.instructables.com/Making-Scratch-30-Extensions/)
